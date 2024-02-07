@@ -1,3 +1,4 @@
+```markdown
 <img width="1440" alt="dashboard" src="https://github.com/maybe-finance/maybe/assets/35243/4910781f-4bea-4a3b-8fb6-21f314548c9d">
 
 # Maybe: The OS for your personal finances
@@ -8,7 +9,7 @@ _If you're looking for the previous React codebase, you can find it at [maybe-fi
 
 ## Backstory
 
-We spent the better part of 2021/2022 building a personal finance + wealth management app called, Maybe. Very full-featured, including an "Ask an Advisor" feature which connected users with an actual CFP/CFA to help them with their finances (all included in your subscription).
+We spent the better part of 2021/2022 building a personal finance + wealth management app called Maybe. It was very full-featured, including an "Ask an Advisor" feature which connected users with an actual CFP/CFA to help them with their finances (all included in your subscription).
 
 The business end of things didn't work out, and so we shut things down mid-2023.
 
@@ -24,7 +25,7 @@ As we started digging into the changes that would be required to get the app ful
 
 We're now building the app in Ruby on Rails. We realize that's a controversial choice, but we believe it's the right one for the project. Rails is a mature, stable, and well-documented framework that's been around for over 20 years built on a language that's been around for over 30 years.
 
-From the start our focus with this is to make it as easy as possible for you to both contribute to and deploy the app, and this move to Rails is a big part of that.
+From the start, our focus with this is to make it as easy as possible for you to both contribute to and deploy the app, and this move to Rails is a big part of that.
 
 ## Local Development Setup
 
@@ -93,3 +94,4 @@ Please see our [guide on self hosting here](https://github.com/maybe-finance/may
 ## Copyright & license
 
 Maybe is distributed under an [AGPLv3 license](https://github.com/maybe-finance/maybe/blob/main/LICENSE). "Maybe" is a trademark of Maybe Finance, Inc.
+```
